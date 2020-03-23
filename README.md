@@ -5,7 +5,7 @@ Basic web scrapper made with python and beautifulsoup4.
 
 ## Installation
 
-Use the package manager pip to install InstaClon
+Use the package manager pip to install Filmweb-scrapper
 ```bash
 $ cd Filmweb-scrapper
 $ python3 -m venv env
