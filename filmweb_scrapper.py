@@ -83,7 +83,6 @@ def scrape(filmweb_url):
     # Rating
     film_rating = soup.find('span', class_='filmRating__rateValue').text
 
-
     # Director and Type  
     film_type = None
 
@@ -105,7 +104,6 @@ def scrape(filmweb_url):
 
         actors[person] = role
     
-    
     return Film(title, film_type, film_year, film_rating, director, actors)
     
 
@@ -116,7 +114,6 @@ def main():
         film.print_stats()
     else:
         print('Invalid url')
-
 
 
 if __name__ == '__main__':
