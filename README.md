@@ -14,5 +14,5 @@ $ pip install -r requirements.txt
 ```
 
 ## Demo
-<img src="./img/screen1.PNG" width="300" height="300">
-<img src="./img/screen2.PNG" width="300" height="300">
+<img src="./img/screen1.PNG" width="600" height="600">
+<img src="./img/screen2.PNG" width="600" height="600">
